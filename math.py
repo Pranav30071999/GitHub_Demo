@@ -3,7 +3,7 @@ def add(x,y):
     return x+y
 #Sub Header	
 def subtract(x,y):
-    pass
+    return x-y
 #Mul header	
 def multiply(x,y):
     pass
